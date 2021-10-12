@@ -20,6 +20,12 @@ body {
     background-color:rgb(204, 224, 204);
 }
 
+.container img {
+    border-radius: 15px;
+    size: 10px;
+    
+}
+
 .card-list {
     list-style-type: none;
 }
