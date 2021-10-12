@@ -1,1 +1,10 @@
+.body {
+    background-color: grey !important; 
+}
 
+a:hover {
+    color:Green;
+}
+.navbar {
+    border-radius: 100px;
+}
