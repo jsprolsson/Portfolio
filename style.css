@@ -1,12 +1,25 @@
 body {
     font-family: 'Roboto', sans-serif; 
     background-color: rgb(204, 224, 204);
-
 }
 
-a:hover {
-    color:Green;
+.nav-link:hover {
+    color:rgb(109, 143, 109) !important;
 }
 .navbar {
     border-radius: 100px;
+}
+
+.nav {
+    border-radius: 10px;
+    padding: 0px 120px 0px 120px;
+}
+
+
+.card {
+    background-color:rgb(204, 224, 204);
+}
+
+.card-list {
+    list-style-type: none;
 }
