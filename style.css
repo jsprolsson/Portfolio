@@ -18,7 +18,6 @@ body {
 
 .card {
     background-color:rgb(204, 224, 204);
-    padding-bottom: 65%;
 }
 
 .container img {
@@ -28,8 +27,18 @@ body {
 }
 
 .card-list a {
-    list-style-type: none;
     color: black;
+}
+
+
+
+.card-list-work {
+    padding-bottom:18%;
+}
+
+ul {
+    list-style-type: none;
+    
 }
 
 a:hover {
