@@ -26,6 +26,11 @@ body {
     
 }
 
-.card-list {
+.card-list a {
     list-style-type: none;
+    color: black;
+}
+
+a:hover {
+    color:rgb(109, 143, 109);
 }
